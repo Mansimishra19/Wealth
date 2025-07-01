@@ -61,7 +61,7 @@ export default function EmailTemplate({
 
             <Text style={styles.text}>Hello {userName},</Text>
             <Text style={styles.text}>
-              Here&rsquo;s your financial summary for {data?.month}:
+              Here&apos;s your financial summary for {data?.month}:
             </Text>
 
             {/* Main Stats */}
